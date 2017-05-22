@@ -1,0 +1,15 @@
+{
+  "name": "node_file_write",
+  "version": "1.0.0",
+  "description": "",
+  "main": "filewrite.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.5",
+    "fs-extra": "^2.0.0"
+  }
+}
